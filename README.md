@@ -46,7 +46,7 @@ I’m motivated by clarity, narrative, and craft. My goal is to contribute to te
 Thanks for reading, and for considering my application.  
 — **Ligea**
 
-**Email:** ligea.alex@gmail.com • **Phone:** +1-646-525-0699
+**Email:** ligea.alex@gmail.com
 
 ---
 
