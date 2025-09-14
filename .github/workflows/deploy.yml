@@ -25,13 +25,14 @@ jobs:
           node-version: 20
           cache: 'pnpm'
 
+      # Install pnpm on the runner
       - uses: pnpm/action-setup@v2
         with:
           version: 9
+          run_install: true   # runs `pnpm install`
 
-      - run: pnpm install --frozen-lockfile
       - run: pnpm build
-      - run: pnpm run postbuild || true
+      - run: pnpm run postbuild || true   # if you added the 404 copy
 
       - uses: actions/upload-pages-artifact@v3
         with:
