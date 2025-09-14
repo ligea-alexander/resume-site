@@ -27,7 +27,6 @@ I **vibe-coded** this resume site because speed + UX pragmatism matter. We live 
 **Design choices**
 - **Functionality first.** Reduce cognitive load and friction wherever possible.
 - **Scan-friendly layout.** Clear headings, compact sections, obvious actions.
-- **Case pages with scroll-spy + gallery.** Instead of infinite scrolling, you can jump sections and preview visuals without getting lost—keeping the reader oriented and in control.
 
 ---
 
