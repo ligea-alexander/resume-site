@@ -13,10 +13,10 @@ I’m an **early-career interactive developer and data visualization analyst** w
 
 **Highlights**
 - I supported early interactive prototyping for a **Nikkei Business** feature (exploration phase; the final story shipped in a different direction).
-- I created **Cost of Sunlight** to explore public space and exposure—an early attempt at turning curiosity into a narrative with data. I’m committed to leveling it up with stronger data sources and clearer framing.
-- At CEO, I led **executive-facing dashboard narratives** and helped prototype **PathwayPal**, a lightweight AI assistant—work that sharpened my sense of clarity, hierarchy, and responsible interactivity.
+- I created **Cost of Sunlight** to explore the relationship between NYC rental prices and sun exposure; an early attempt at turning curiosity into a narrative with data. I’m committed to leveling it up with stronger data sources and clearer framing.
+- At CEO, I led **executive-facing dashboard narratives** and helped prototype **PathwayPal**, a lightweight AI assistant—work that sharpened my sense of data architecture and deepenrd my understandin of LLMs.
 
-This summer, under guidance from **Fernando Becerra**, I learned **D3.js foundations (vanilla)** and I’m continuing to advance—because I want to build interactive visuals that carry editorial weight, not just look good.
+This summer, under guidance from **Fernando Becerra**, I learned **D3.js foundations (vanilla)** and I’m continuing to advance because I want to build interactive visuals that carry editorial weight, not just look good.
 
 ---
 
