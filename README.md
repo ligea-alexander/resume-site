@@ -33,9 +33,9 @@ I **vibe-coded** this resume site because speed + UX pragmatism matter. We live 
 
 ## What I’ll do to improve
 
-- Add a small **“Case Snippets”** section linking to interactive work.  
+- Add more **“Case Snippets”** section linking to more interactive charts.  
 - Tighten **a11y** (tab order, ARIA labels) and add a **high-contrast toggle**.  
-- Add a **printable layout** that exports cleanly to PDF from the page.  
+- Add a an improved **printable layout** that exports cleanly to PDF from the page.  
 
 ---
 
