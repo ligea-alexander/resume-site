@@ -30,14 +30,6 @@ I **vibe-coded** this resume site because speed + UX pragmatism matter. We live 
 
 ---
 
-## What I’ll do to improve
-
-- Add more **“Case Snippets”** section linking to more interactive charts.  
-- Tighten **a11y** (tab order, ARIA labels) and add a **high-contrast toggle**.  
-- Add a an improved **printable layout** that exports cleanly to PDF from the page.  
-
----
-
 ## About me
 
 I’m motivated by clarity, narrative, and craft. My goal is to contribute to teams that blend **journalistic rigor** with **interactive design**—and to keep leveling up my **D3** and frontend skills so the medium elevates the reporting.
